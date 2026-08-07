@@ -1,0 +1,1 @@
+import{T as e,w as t}from"./index-AWEOMb1a.js";var n=e(t(),1);function r(){let e=(0,n.useRef)(null);return{ref:e,onMouseMove:(0,n.useCallback)(t=>{let n=e.current;if(!n)return;let r=n.getBoundingClientRect();n.style.setProperty(`--spot-x`,`${t.clientX-r.left}px`),n.style.setProperty(`--spot-y`,`${t.clientY-r.top}px`)},[])}}export{r as t};

@@ -1,0 +1,1 @@
+import{C as e,x as t}from"./index-AWEOMb1a.js";var n=e(),r=[.22,1,.36,1];function i({children:e,delay:i=0,y:a=36,className:o,as:s=`div`}){let c=t[s];return(0,n.jsx)(c,{initial:{opacity:0,y:a},whileInView:{opacity:1,y:0},viewport:{once:!0,margin:`-70px`},transition:{duration:.85,delay:i,ease:r},className:o,children:e})}export{i as n,r as t};
