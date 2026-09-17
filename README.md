@@ -1,4 +1,4 @@
-﻿# Shimul Raj Das â€” Portfolio
+﻿# Shimul Raj Das ” Portfolio
 
 Live at https://shimulraj0.github.io
 
