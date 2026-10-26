@@ -1,0 +1,42 @@
+# Shimul Raj Das (Raj)
+
+> Full-Stack Flutter Developer, Mobile Engineer (iOS & Android), UI/UX Designer, and AI Automation Specialist.
+
+## Professional Summary
+Shimul Raj Das is a Computer Science graduate, software engineer, and intelligent automation specialist based in Dhaka, Bangladesh. He specializes in building high-performance cross-platform mobile applications with Flutter and Dart, responsive web applications, and autonomous AI workflow pipelines using n8n and modern LLMs (OpenAI, Anthropic Claude, Google Gemini).
+
+- Portfolio: https://shimul.is-a.dev
+- Upwork: https://www.upwork.com/freelancers/~019ffaf78070f4363b
+- GitHub: https://github.com/Shimulraj0
+- LinkedIn: https://www.linkedin.com/in/shimul-raj-das-587847369
+- Email: shimulrajdas001@gmail.com
+
+---
+
+## Core Competencies & Expertise
+
+### 1. Cross-Platform Mobile App Development (Flutter & Dart)
+- Native-grade mobile applications for iOS, Android, and Flutter Web.
+- State Management: BLoC, Riverpod, Provider, GetX.
+- Architectural Patterns: Clean Architecture, Repository Pattern, MVVM, SOLID principles.
+- Backend & Cloud Integration: Firebase (Auth, Cloud Firestore, Cloud Functions, Cloud Messaging), Supabase, REST APIs, GraphQL, WebSockets.
+- App Publishing: Apple App Store and Google Play Console release management, CI/CD pipeline automation.
+
+### 2. AI & Workflow Automation (n8n, Agents, Chatbots)
+- Custom business workflow automation using self-hosted n8n, Make (Integromat), and Zapier.
+- Multi-step AI agents and chatbots powered by OpenAI GPT-4o, Anthropic Claude 3.5 Sonnet, and Google Gemini.
+- Retrieval-Augmented Generation (RAG) pipelines, vector databases, and semantic search.
+- Web scraping, CRM integrations, and webhook automated data pipelines.
+
+### 3. Full-Stack Web Development & UI/UX Design
+- High-converting, responsive modern websites and web applications.
+- Prototyping and design-to-code implementation from Figma and Adobe XD.
+- Frontend: Flutter Web, React, JavaScript/TypeScript, Tailwind CSS, HTML5, CSS3.
+
+---
+
+## Professional Experience & Background
+- **AI Trainer:** Department of Youth Development (Govt. of Bangladesh)
+- **AI Trainer:** E-Learning & Earning Ltd.
+- **Flutter Developer:** Sparktech Agency
+- **Education:** Diploma in Computer Science & Engineering (Shariatpur Polytechnic Institute)
